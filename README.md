@@ -14,9 +14,9 @@ infrastructure-as-code — and I build the software around them when needed.
 `GitHub Actions` · `Azure Pipelines` · `AWS` · `Cloudflare` · `Linux`
 
 **Also work with:**
-`Go` · `Node.js` · `Bash` · `PostgreSQL` · `Datadog` · `Prometheus`
+`Go` · `Node.js` · `Bash` · `PostgreSQL` 
 
-I use AI heavily in my workflow, which lets me focus more on architecture, system design, tradeoffs, and how the pieces fit together.
+I also use AI heavily in my workflow, which lets me focus more on architecture, system design, tradeoffs, and how the pieces fit together.
 
 **Currently focused on** adopting AI into my workflow — faster automation, debugging, and documentation, without giving up ownership of the design.
 
